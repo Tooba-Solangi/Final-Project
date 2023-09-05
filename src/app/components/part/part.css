@@ -1,0 +1,34 @@
+.back{
+    background: #fff;
+
+}
+.img-fluid{
+
+    width: 500px;
+    height: 800px;
+    }
+
+.buttton{
+
+    border-radius: 3px;
+    background: var(--019D6D, #019D6D) !important;
+
+
+}
+
+.simple{
+
+    font-family: 'Roboto';font-size: 40px;
+}
+
+.size{
+    font-family: 'Roboto';font-size: 20px;
+
+}
+
+.para-graph{
+
+    font-family: 'Roboto';font-size: 16px;
+    color: #7A7A7A;
+
+}

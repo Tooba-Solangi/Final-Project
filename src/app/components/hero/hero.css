@@ -1,0 +1,112 @@
+.heading-word {
+  color: var(--019-d-6-d, #019d6d);
+}
+.btn-color {
+  border-radius: 3px;
+  background: var(--019-d-6-d, #019d6d);
+  border: none;
+  width: 150px;
+  height: 50px;
+}
+.btn-two {
+  border-radius: 3px;
+  border: 2px solid var(--019-d-6-d, #019d6d);
+   
+   width: 150px;
+   height: 50px; 
+
+  color: #000;
+  text-align: center;
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-color: white !important;
+}
+.btn-space{
+    margin-right: 40px;
+ 
+}
+
+.shadow{
+     /* bottom: 500px;  */
+     /* position: relative; */
+    margin-top: -200px;
+    margin-left: 90px;
+     
+ 
+
+}
+
+.middle-img{
+
+bottom: 500px;
+/* position: relative; */
+margin-top: -110px;
+margin-left: 100px;
+
+}
+
+.shadow-2{
+
+margin-left: 20px;
+margin-top:-90px;
+
+}
+.shadow-3{
+
+  margin-left: 20px;
+  margin-top:-260px;
+  
+border-radius: 15px;
+}
+
+.bg{
+
+  background: rgb(159, 243, 211) 0px -45px / 104.762% 120.732% ;
+
+  border-radius: 15px;
+
+}
+
+
+.Car{
+
+
+  background:  lightgray -126.613px -245.007px / 150.201% 185.714% no-repeat;
+
+  border-radius: 15px;
+
+  
+}
+.carton-bg{
+  background: rgb(247, 243, 192) 7px -51px / 96.296% 116.294% no-repeat;
+
+border-radius: 15px;
+}
+
+
+.hero {
+  font-family: 'Roboto';font-size: 52px;
+}
+
+.para{
+
+  font-family: 'Roboto';font-size: 20px;
+  color: #7A7A7A;
+
+}
+
+.hd{
+
+  font-family: 'Roboto';font-size: 23px;
+
+
+}
+
+.pics{
+
+  font-family: 'Roboto';font-size: 22px;
+
+}

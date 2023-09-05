@@ -1,0 +1,33 @@
+.card-1{
+    border: 1px solid rgb(238, 233, 233);
+padding: 15px;
+background-color: fill #FFF;
+font-family: 'Roboto';font-size: 20px;
+}
+.card-2{
+    border: 1px solid rgb(248, 241, 241);
+    padding: 15px;
+    font-family: 'Roboto';font-size: 20px;
+}.card-3{
+    border: 1px solid rgb(241, 232, 232);
+    padding: 10px;
+    background-color: fill #ffffff;
+    font-family: 'Roboto';font-size: 20px;
+}
+
+.ground{
+
+    background: #f9f9fc;
+}
+
+.first{
+
+    font-family: 'Roboto';font-size: 38px;
+
+}
+
+.graph{
+
+    font-family: 'Roboto';font-size: 18px;
+
+}

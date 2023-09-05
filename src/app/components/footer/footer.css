@@ -1,0 +1,24 @@
+.width{
+
+height: 30px;
+
+}
+
+.button-bg{
+
+    background: var(--019D6D, #019D6D) !important;
+border: none;
+
+
+
+}
+
+
+
+.footer{
+
+    font-family: 'Roboto';
+    font-size: 15px;
+
+
+}

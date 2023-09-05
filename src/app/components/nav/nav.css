@@ -1,0 +1,15 @@
+.nav-color{
+color: var(--019-d-6-d, #019D6D);
+
+
+}
+
+.nav-br{
+
+border: #019D6D;
+
+}
+
+.fnt {
+    font-family: 'Roboto';font-size: 17px;
+}
