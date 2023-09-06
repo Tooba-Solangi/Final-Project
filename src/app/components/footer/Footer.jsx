@@ -3,7 +3,7 @@ import Image from "next/image";
 import "./footer.css";
 
 import Mark from "../../assets/images/Mark.png";
-import icons from "../../assets/images/Icons.png";
+import icons from "../../assets/images/icons.png";
 import Logo from "../../assets/images/Logo.svg";
 
 const Footer = () => {
