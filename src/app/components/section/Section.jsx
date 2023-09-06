@@ -1,7 +1,7 @@
 import React from "react";
 import "./Section.css";
 import Image from "next/image";
-import Leaf from "../../assets/images/leaf.png";
+import Leaf from "../../assets/images/Leaf.png";
 import Women from "../../assets/images/Women.png";
 import Hands from "../../assets/images/Hands.png";
 import Clouds from "../../assets/images/Clouds.png";
