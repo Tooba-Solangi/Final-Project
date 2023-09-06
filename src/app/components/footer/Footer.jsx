@@ -3,7 +3,7 @@ import Image from "next/image";
 import "./footer.css";
 
 import Mark from "../../assets/images/Mark.png";
-import icon from "../../assets/images/Icons.png";
+import icons from "../../assets/images/Icons.png";
 import Logo from "../../assets/images/Logo.svg";
 
 const Footer = () => {
@@ -57,7 +57,7 @@ const Footer = () => {
             </p>
 
             <div className="text-center">
-              <Image src={icon} width={200} className="ms-3 mt-3" />
+              <Image src={icons} width={200} className="ms-3 mt-3" />
             </div>
           </div>
         </footer>
