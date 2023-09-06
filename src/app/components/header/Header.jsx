@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import Image from "next/image";
-import phone from "../../assets/images/phone.png";
+import phone from "../../assets/images/Phone.png";
 import icons from "../../assets/images/icons.png";
 import White from"../../assets/images/White.jpg";
 
