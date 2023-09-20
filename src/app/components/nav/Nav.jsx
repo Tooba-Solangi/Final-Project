@@ -21,7 +21,7 @@ const Nav = () => {
             <span class="navbar-toggler-icon"></span>
           </button>
      
-          <div class="collapse navbar-collapse  ">
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav px-5 gap-3 fnt">
               <li class=" ">
                 <a href="#" class="nav-link text-success ">
