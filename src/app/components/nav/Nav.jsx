@@ -39,7 +39,7 @@ const Nav = () => {
                   ABOUT US
                 </a>
               </li>
-              <a class="navbar-brand ps-5 mx-5" href="#">
+              <a class="navbar-brand" href="#">
                 <Image src={panda} alt="logo" />
               </a>
               <li class="nav-item">
