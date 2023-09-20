@@ -5,7 +5,7 @@ import panda from "../../assets/images/panda.png";
 
 const Nav = () => {
   return (
-    <div class="container mt-2 navbar-1">
+    <div class="container mt-2 navbar-1 d-flex justify-content-center text-center ">
     
       <nav class=" navbar navbar-expand-lg  navbar1">
         <div class=" ">
